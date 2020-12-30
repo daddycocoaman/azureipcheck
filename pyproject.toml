@@ -5,6 +5,7 @@ description = "A Python CLI tool to check service tags for Azure IPs"
 authors = ["Leron Gray"]
 license = "MIT"
 readme = "README.md"
+homepage = "https://github.com/daddycocoaman/azureipcheck"
 
 [tool.poetry.dependencies]
 python = "^3.8"
