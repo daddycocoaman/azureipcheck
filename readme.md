@@ -27,4 +27,6 @@ Checking a CIDR does not check every IP in the network provided. It simply check
 - Gazpacho: https://github.com/maxhumber/gazpacho
 - Cookiecutter-RichTyper: https://github.com/daddycocoaman/cookiecutter-richtyper
 
+Inspired by https://github.com/deanobalino/azureip
+
 
