@@ -12,7 +12,7 @@ pretty.install()
 
 app_dir = typer.get_app_dir(APP_NAME)
 
-if not app_dir.exists():
+if not Path(app_dir).exists():
     Path(app_dir).mkdir(parents=True)
 
 
