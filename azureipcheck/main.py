@@ -5,10 +5,9 @@ from pathlib import Path
 import gazpacho
 import typer
 from clumper import Clumper
+from rich.columns import Columns
 from rich.panel import Panel
 from rich.progress import track
-from rich.columns import Columns
-
 
 from . import APP_NAME, app_dir, console
 from .callbacks import *
