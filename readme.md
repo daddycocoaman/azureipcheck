@@ -1,5 +1,12 @@
 # azureipcheck
 
+<div align="center">
+    <img src="https://img.shields.io/pypi/v/azureipcheck"/>
+    <img src="https://img.shields.io/pypi/pyversions/azureipcheck"/>
+    <img src="https://img.shields.io/pypi/l/azureipcheck"/>
+    <a href="https://twitter.com/mcohmi"><img src="https://img.shields.io/twitter/follow/mcohmi.svg?style=plastic"/></a><br>
+</div>
+
 A Python [Typer-based](https://github.com/tiangolo/typer) CLI tool to check IP addresses against Azure services. It also uses [Rich](https://github.com/willmcgugan/rich) for some dope console output. Additionally, it makes use of [Clumper](https://github.com/koaning/clumper) for parsing through the Azure Service Tag JSON files.
 
 
