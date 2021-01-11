@@ -16,7 +16,7 @@ clumper = "^0.2.7"
 gazpacho = "^1.1"
 
 [tool.poetry.dev-dependencies]
-isort = "^5.6.4"
+isort = "^5.7.0"
 black = "^20.8b1"
 mkdocs = "^1.1.2"
 mkdocs-click = "^0.2.0"
