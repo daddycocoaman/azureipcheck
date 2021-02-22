@@ -63,7 +63,7 @@ dev = ["pytest"]
 
 [[package]]
 name = "clumper"
-version = "0.2.9"
+version = "0.2.10"
 description = ""
 category = "main"
 optional = false
@@ -493,8 +493,7 @@ click-help-colors = [
     {file = "click_help_colors-0.9-py3-none-any.whl", hash = "sha256:f6c3d1fe86b07790e6ef0339f458196a8814de90946d876774ea4b4f30a5a539"},
 ]
 clumper = [
-    {file = "clumper-0.2.9-py2.py3-none-any.whl", hash = "sha256:5a1b590be9eeb959ce4e22e8e0bac91fb36f86d0222efe8b616350ffd4c99bd8"},
-    {file = "clumper-0.2.9.tar.gz", hash = "sha256:28e766caee2688f32ca082ca69a2d9dafd0c9433f8b72b012c95a8ad23129cb7"},
+    {file = "clumper-0.2.10-py2.py3-none-any.whl", hash = "sha256:bbc9698df2a6e6fe59a6e88029bcbb03ef69e008fcdd73a9e8055d02c48d47e4"},
 ]
 colorama = [
     {file = "colorama-0.4.4-py2.py3-none-any.whl", hash = "sha256:9f47eda37229f68eee03b24b9748937c7dc3868f906e8ba69fbcbdd3bc5dc3e2"},
