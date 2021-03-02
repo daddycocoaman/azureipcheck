@@ -348,7 +348,7 @@ python-versions = "*"
 
 [[package]]
 name = "rich"
-version = "9.10.0"
+version = "9.12.4"
 description = "Render rich text, tables, progress bars, syntax highlighting, markdown and more to the terminal"
 category = "main"
 optional = false
@@ -689,8 +689,8 @@ regex = [
     {file = "regex-2020.11.13.tar.gz", hash = "sha256:83d6b356e116ca119db8e7c6fc2983289d87b27b3fac238cfe5dca529d884562"},
 ]
 rich = [
-    {file = "rich-9.10.0-py3-none-any.whl", hash = "sha256:3070d53e3a93864de351c1091af1deb25f41e6051b33e485d4626b591c0cfdb3"},
-    {file = "rich-9.10.0.tar.gz", hash = "sha256:e0f2db62a52536ee32f6f584a47536465872cae2b94887cf1f080fb9eaa13eb2"},
+    {file = "rich-9.12.4-py3-none-any.whl", hash = "sha256:4654e20bc44c0b21e387b58edaf073325e5d12f8e482b70db7d1dd7a4949f6f0"},
+    {file = "rich-9.12.4.tar.gz", hash = "sha256:1e000895221df23cd7f828a9511c15d10189850d4f923b6d8c3d29a32ca95265"},
 ]
 shellingham = [
     {file = "shellingham-1.3.2-py2.py3-none-any.whl", hash = "sha256:7f6206ae169dc1a03af8a138681b3f962ae61cc93ade84d0585cca3aaf770044"},
