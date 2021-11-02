@@ -226,14 +226,14 @@ tornado = ">=5.0"
 
 [[package]]
 name = "mkdocs-click"
-version = "0.2.0"
+version = "0.4.0"
 description = "An MkDocs extension to generate documentation for Click command line applications"
 category = "dev"
 optional = false
 python-versions = ">=3.7"
 
 [package.dependencies]
-click = ">=7.0.0,<8.0.0"
+click = ">=7,<9"
 markdown = ">=3.0.0,<4.0.0"
 
 [[package]]
@@ -472,7 +472,7 @@ testing = ["pytest (>=4.6)", "pytest-checkdocs (>=1.2.3)", "pytest-flake8", "pyt
 [metadata]
 lock-version = "1.1"
 python-versions = "^3.8"
-content-hash = "d9ec51c66378e0d5d62a481b4f72f8afd5aa17212e51ceb092c91b774242b27b"
+content-hash = "5e2206bb3572e39494aa8108733f8f83db1451672b9d02c7aa73494a557d6095"
 
 [metadata.files]
 autoflake = [
@@ -594,8 +594,8 @@ mkdocs = [
     {file = "mkdocs-1.1.2.tar.gz", hash = "sha256:f0b61e5402b99d7789efa032c7a74c90a20220a9c81749da06dbfbcbd52ffb39"},
 ]
 mkdocs-click = [
-    {file = "mkdocs_click-0.2.0-py3-none-any.whl", hash = "sha256:d5a703f1347011916b701d272d7e6c93fbd36a15069facd30cd81225c1ad8800"},
-    {file = "mkdocs_click-0.2.0.tar.gz", hash = "sha256:00959d6cfcd9cf15af081f9f9a440027e84bff700fb4c14ba6e5efc0ac75ecf6"},
+    {file = "mkdocs_click-0.4.0-py3-none-any.whl", hash = "sha256:3b54c65bd1e6e2b600da71d77705e911d15d86bc2c2b341ff5d7f76b9fe1505b"},
+    {file = "mkdocs_click-0.4.0.tar.gz", hash = "sha256:b34be84cde57850733fb1b32db37b472620ac2c3e97db4abbe11dbd6b98124f2"},
 ]
 mkdocs-material = [
     {file = "mkdocs-material-7.2.3.tar.gz", hash = "sha256:688f0162e7356aa5d019cf687851f5b24c7002886bd939b8159595cc16966edf"},
