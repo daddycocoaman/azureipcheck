@@ -60,7 +60,7 @@ dev = ["pytest"]
 
 [[package]]
 name = "clumper"
-version = "0.2.11"
+version = "0.2.15"
 description = ""
 category = "main"
 optional = false
@@ -68,8 +68,8 @@ python-versions = "*"
 
 [package.extras]
 all = ["PyYAML (>=5.3.1)"]
-dev = ["pytest (>=5.4.3)", "black (>=19.10b0)", "flake8 (>=3.8.3)", "mktestdocs (>=0.1.0)", "jupyterlab (>=2.2.0)", "pre-commit (>=2.6.0)", "mkdocs (>=1.1)", "mkdocs-material (>=4.6.3)", "mkdocstrings (>=0.8.0)", "PyYAML (>=5.3.1)"]
-test = ["pytest (>=5.4.3)", "black (>=19.10b0)", "flake8 (>=3.8.3)", "mktestdocs (>=0.1.0)"]
+dev = ["pytest (>=5.4.3)", "black (>=19.10b0)", "flake8 (>=3.8.3)", "mktestdocs (>=0.1.0)", "interrogate (>=1.2.0)", "jupyterlab (>=2.2.0)", "pre-commit (>=2.6.0)", "mkdocs (>=1.1)", "mkdocs-material (>=4.6.3)", "mkdocstrings (>=0.8.0)", "PyYAML (>=5.3.1)"]
+test = ["pytest (>=5.4.3)", "black (>=19.10b0)", "flake8 (>=3.8.3)", "mktestdocs (>=0.1.0)", "interrogate (>=1.2.0)"]
 yaml = ["PyYAML (>=5.3.1)"]
 
 [[package]]
@@ -491,8 +491,8 @@ click-help-colors = [
     {file = "click_help_colors-0.9-py3-none-any.whl", hash = "sha256:f6c3d1fe86b07790e6ef0339f458196a8814de90946d876774ea4b4f30a5a539"},
 ]
 clumper = [
-    {file = "clumper-0.2.11-py2.py3-none-any.whl", hash = "sha256:16f8000bb5525afdd2b233c277864f0cc79d10b666993934696e0e5f4695620c"},
-    {file = "clumper-0.2.11.tar.gz", hash = "sha256:698b74a1c0adc8c25270e2668a66882a832be9d520f1ffd4f05c25286b72e735"},
+    {file = "clumper-0.2.15-py2.py3-none-any.whl", hash = "sha256:323152d64330b908a772cf6b4ea9e5b6d8abde7b4d2ddca253251e75c895edb8"},
+    {file = "clumper-0.2.15.tar.gz", hash = "sha256:5b243bc1eb666447dcdf32ac3239e5133b577f58c87ddb3b4cfb4a208b24ee2c"},
 ]
 colorama = [
     {file = "colorama-0.4.4-py2.py3-none-any.whl", hash = "sha256:9f47eda37229f68eee03b24b9748937c7dc3868f906e8ba69fbcbdd3bc5dc3e2"},
