@@ -17,7 +17,7 @@ gazpacho = "^1.1"
 
 [tool.poetry.dev-dependencies]
 isort = "^5.9.3"
-black = "^21.10b0"
+black = "^21.11b0"
 autoflake = "^1.4"
 
 [tool.poetry.scripts]

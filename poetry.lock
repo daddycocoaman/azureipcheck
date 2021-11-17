@@ -11,7 +11,7 @@ pyflakes = ">=1.1.0"
 
 [[package]]
 name = "black"
-version = "21.10b0"
+version = "21.11b0"
 description = "The uncompromising code formatter."
 category = "dev"
 optional = false
@@ -230,15 +230,15 @@ python-versions = "*"
 [metadata]
 lock-version = "1.1"
 python-versions = "^3.8"
-content-hash = "49d5e99794b2a701a8a0fc63358660fb3cb391f362e089f7f4137bc19c4bc235"
+content-hash = "3beb7b864c4c4c4f6acbd881449555116f1c35727691255d62246f8edb05a1e1"
 
 [metadata.files]
 autoflake = [
     {file = "autoflake-1.4.tar.gz", hash = "sha256:61a353012cff6ab94ca062823d1fb2f692c4acda51c76ff83a8d77915fba51ea"},
 ]
 black = [
-    {file = "black-21.10b0-py3-none-any.whl", hash = "sha256:6eb7448da9143ee65b856a5f3676b7dda98ad9abe0f87fce8c59291f15e82a5b"},
-    {file = "black-21.10b0.tar.gz", hash = "sha256:a9952229092e325fe5f3dae56d81f639b23f7131eb840781947e4b2886030f33"},
+    {file = "black-21.11b0-py3-none-any.whl", hash = "sha256:0b1f66cbfadcd332ceeaeecf6373d9991d451868d2e2219ad0ac1213fb701117"},
+    {file = "black-21.11b0.tar.gz", hash = "sha256:83f3852301c8dcb229e9c444dd79f573c8d31c7c2dad9bbaaa94c808630e32aa"},
 ]
 click = [
     {file = "click-7.1.2-py2.py3-none-any.whl", hash = "sha256:dacca89f4bfadd5de3d7489b7c8a566eee0d3676333fbb50030263894c38c0dc"},
