@@ -16,7 +16,7 @@ clumper = "^0.2.7"
 gazpacho = "^1.1"
 
 [tool.poetry.dev-dependencies]
-isort = "^5.9.3"
+isort = "^5.10.1"
 black = "^21.10b0"
 autoflake = "^1.4"
 

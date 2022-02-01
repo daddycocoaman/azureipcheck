@@ -104,7 +104,7 @@ dev = ["black (>=20.8b1)", "mypy (>=0.782)", "portray (>=1.4.0)", "pytest (>=6.0
 
 [[package]]
 name = "isort"
-version = "5.9.3"
+version = "5.10.1"
 description = "A Python utility / library to sort Python imports."
 category = "dev"
 optional = false
@@ -230,7 +230,7 @@ python-versions = "*"
 [metadata]
 lock-version = "1.1"
 python-versions = "^3.8"
-content-hash = "6d7a06a6f26e6afe8b3856974ab78b41a5b8aaae9a2421026ff8f2187ca5d0d0"
+content-hash = "ffe90d4ea15889094ea61e75427b9a300118c3b0dd4bb165bce8f4f387896cfa"
 
 [metadata.files]
 autoflake = [
@@ -264,8 +264,8 @@ gazpacho = [
     {file = "gazpacho-1.1.tar.gz", hash = "sha256:1579c1be2de05b5ded0a97107b179d12491392fb095aeab185b283ea48cd7010"},
 ]
 isort = [
-    {file = "isort-5.9.3-py3-none-any.whl", hash = "sha256:e17d6e2b81095c9db0a03a8025a957f334d6ea30b26f9ec70805411e5c7c81f2"},
-    {file = "isort-5.9.3.tar.gz", hash = "sha256:9c2ea1e62d871267b78307fe511c0838ba0da28698c5732d54e2790bf3ba9899"},
+    {file = "isort-5.10.1-py3-none-any.whl", hash = "sha256:6f62d78e2f89b4500b080fe3a81690850cd254227f27f75c3a0c491a1f351ba7"},
+    {file = "isort-5.10.1.tar.gz", hash = "sha256:e8443a5e7a020e9d7f97f1d7d9cd17c88bcb3bc7e218bf9cf5095fe550be2951"},
 ]
 mypy-extensions = [
     {file = "mypy_extensions-0.4.3-py2.py3-none-any.whl", hash = "sha256:090fedd75945a69ae91ce1303b5824f428daf5a028d2f6ab8a299250a846f15d"},
