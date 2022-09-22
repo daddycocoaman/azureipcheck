@@ -18,7 +18,7 @@ gazpacho = "^1.1"
 [tool.poetry.dev-dependencies]
 isort = "^5.10.1"
 black = "^22.1"
-autoflake = "^1.4"
+autoflake = "^1.6"
 
 [tool.poetry.scripts]
 azureipcheck = "azureipcheck.main:app"
